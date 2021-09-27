@@ -5,7 +5,7 @@
         "department": "Mechanical",
         "country": "Bangladesh",
         "salary": 35000,
-        "img": "https://encrypted-tbn0.gstatic.com/imexperiences?q=tbn:ANd9GcTyryV6h6KN94l5j2AWnkN0HB2Ynzuiu0bfQ-nARYJbS85pZfkUIMMkKoRBPSu2Afxipos&usqp=CAU"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761845/engineers/D-25456-a_copy_iiwaxh.jpg"
     },
     {
         "name": "Fozole Rabby",
@@ -13,7 +13,7 @@
         "department": "Electrical",
         "country": "Bangladesh",
         "salary": 43000,
-        "img": "https://mist.ac.bd/storexperience/files/da/mmk.JPG"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761845/engineers/photo_passport_size_qlovq4.jpg"
     },
     {
         "name": "Rashedul Islam Rasel",
@@ -21,7 +21,7 @@
         "department": "Mechanical",
         "country": "Bangladesh",
         "salary": 28000,
-        "img": "https://ndc.gov.bd/imexperiences/faculty-staff/44b68bf9-939f-47fa-9af0-6613290c3d53.jpg"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761843/engineers/Amitosh_bbzhsc.png"
     },
     {
         "name": "Faisal Islam",
@@ -29,7 +29,7 @@
         "department": "Civil",
         "country": "Bangladesh",
         "salary": 46000,
-        "img": "https://mist.ac.bd/storexperience/files/name/Maj%20Zaman%20(4.5cm%20x%204.5cm).JPG"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761843/engineers/1082_Aninday-1_nus1r3.jpg"
     },
     {
         "name": "Rakib Islam",
@@ -37,7 +37,7 @@
         "department": "Lance Automobile",
         "country": "Bangladesh",
         "salary": 23000,
-        "img": "https://d30fl32nd2baj9.cloudfront.net/media/2020/10/16/tachawar-coma-army-161020-02.jpg/BINARY/tachawar-coma-army-161020-02.jpg"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761843/engineers/USA_k6v9uy.jpg"
     },
     {
         "name": "Shohanur Rahman",
@@ -45,7 +45,7 @@
         "department": "Power Automobile",
         "country": "Bangladesh",
         "salary": 50000,
-        "img": "https://storexperience.googleapis.com/example-imexperiences/130459/teacher/233.png"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761841/engineers/Passport_Size_Photo_cl3z9k.png"
     },
     {
         "name": "Robiul Islam",
@@ -53,7 +53,7 @@
         "department": "Mechanical",
         "country": "Bangladesh",
         "salary": 83000,
-        "img": "https://ndc.gov.bd/imexperiences/faculty-staff/2a90e83e-5cc9-46dd-84ff-028ad3dc4761.jpg"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761841/engineers/scan0005_-_Copy_mbdmgc.jpg"
     },
     {
         "name": "Shakir Islam",
@@ -61,7 +61,7 @@
         "department": "Electronics",
         "country": "Bangladesh",
         "salary": 36000,
-        "img": "https://bcc.army.mil.bd/media/officials/Major_Kabir_GWxcU9u.jpg"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761842/engineers/passport-size-photo_cb5xd1.jpg"
     },
     {
         "name": "Nahid Chowdhury",
@@ -69,7 +69,7 @@
         "department": "Mechanical Designer",
         "country": "Bangladesh",
         "salary": 60000,
-        "img": "https://www.mist.ac.bd/storexperience/files/cse/members/Lt-Col-Azim-.jpg"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761840/engineers/Passport._size_wzxy11.jpg"
     },
     {
         "name": "Sourov Mahmud",
@@ -77,7 +77,7 @@
         "department": "Architect",
         "country": "Bangladesh",
         "salary": 55000,
-        "img": "https://ccc.army.mil.bd/media/officials/Major_Rubaed_Hosan_Reyad.jpg"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761837/engineers/PassportSize-231x300_egmrx3.jpg"
     },
     {
         "name": "Sujon Hasan",
@@ -85,7 +85,7 @@
         "department": "CAD Designer",
         "country": "Bangladesh",
         "salary": 80000,
-        "img": "https://encrypted-tbn0.gstatic.com/imexperiences?q=tbn:ANd9GcSq43eI1OeQkUWt7V_7STGK0ZTFHau8utVSCO8-064odiqnTqWtUIvdkKBvaIqrchi2ke4&usqp=CAU"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761836/engineers/download_azyycj.jpg"
     },
     {
         "name": "Shakib Hasan",
@@ -93,7 +93,7 @@
         "department": "Electrical",
         "country": "Bangladesh",
         "salary": 48000,
-        "img": "https://ccr.army.mil.bd/media/officials/04_MO_Mehedi.jpg"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761835/engineers/download_4_nf1hev.jpg"
     },
     {
         "name": "Samiul Islam",
@@ -101,7 +101,7 @@
         "department": "Automobile",
         "country": "Bangladesh",
         "salary": 45000,
-        "img": "https://encrypted-tbn0.gstatic.com/imexperiences?q=tbn:ANd9GcQjOnwsSEn0H8M6oBjYs_b0hiYdDraJEUdaDA&usqp=CAU"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761835/engineers/download_1_dhj7c3.jpg"
     },
     {
         "name": "Hridoy Hasan",
@@ -109,6 +109,6 @@
         "department": "Mechanical",
         "country": "Bangladesh",
         "salary": 90000,
-        "img": "https://pcc.army.mil.bd/media/officials/Maj_Md_Rezwanul_Haque_2.jpg"
+        "img": "https://res.cloudinary.com/dlqhvgxch/image/upload/v1632761835/engineers/download_3_pilagl.jpg"
     }
 ]

@@ -10,7 +10,7 @@ const Engineer = (props) => {
 
     return (
         <div className="engineer">
-            <div>
+            <div className="engineer-img">
                 <img src={img} alt="" />
             </div>
             <div className="engineer-detail">
