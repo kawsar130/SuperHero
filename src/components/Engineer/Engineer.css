@@ -1,23 +1,29 @@
-.engineer-img img{
-    width: 200px;
-    height: 200px;
+.engineer {
+    border: 1px solid lightgray;
+    margin-right: 5px;
+    padding: 15px 0 15px 0;
+    text-align: center;
+    width: 300px;
+    border-radius: 10px;
+    background-color: lightgray;
 }
 
-.engineer {
-    border-bottom: 1px solid lightgray;
-    margin-right: 5px;
-    padding: 10px;
-    text-align: left;
+.engineer-img img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+
+.engineer-name {
+    color: rgb(26, 26, 80);
+    font-weight: 500;
+    font-size: 1.3em;
 }
 
 .engineer-detail {
-    margin-left: 10px;
-}
-
-.engineer-name {
-    color: blue;
+    font-size: 0.9em;
     font-weight: 500;
-    width: 400px;
 }
 
 .btn-regular {

@@ -2,7 +2,7 @@ import React from 'react';
 import './Cart.css'
 
 const Cart = (props) => {
-    const {cart} = props;
+    const { cart } = props;
 
     const totalReducer = (previous, engineer) => previous + engineer.salary;
 
@@ -12,7 +12,7 @@ const Cart = (props) => {
         <div>
             <h3>Engineer Selection and Expenses</h3>
             <h5>Engineer Count: {props.cart.length}</h5>
-            <p>total Salary Expense: {total.toFixed(2)}</p>
+            <p>Total Salary Expense: {total.toFixed(2)}</p>
         </div>
     );
 };
